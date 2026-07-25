@@ -1,0 +1,1 @@
+Customer churn analysis project completed as part of the DeepLearning.AI Data Analytics Professional Certificate. Analysed customer retention patterns and delivered insights on reducing churn for a subscription-based business.
